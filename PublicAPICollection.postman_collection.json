@@ -19,20 +19,6 @@
       }
     },
     {
-      "name": "List Users (Reqres)",
-      "request": {
-        "method": "GET",
-        "header": [],
-        "url": {
-          "raw": "https://reqres.in/api/users?page=2",
-          "protocol": "https",
-          "host": ["reqres", "in"],
-          "path": ["api", "users"],
-          "query": [{ "key": "page", "value": "2" }]
-        }
-      }
-    },
-    {
       "name": "Post Data Echo (httpbin)",
       "request": {
         "method": "POST",
